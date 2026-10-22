@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Some Project.<br>🌱 I’m currently learning Some Dev Tools and Projecting My self a project<br>💬 Ask me about<br><br> 📍  Based On thailand
+🔭 I’m currently working on Some Project.<br>🌱 I’m currently learning Some Dev Tools and Projecting My self a project<br> 📍  Based On thailand
 
 
 
